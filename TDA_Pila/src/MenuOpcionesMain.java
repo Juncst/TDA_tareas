@@ -1,4 +1,3 @@
-package TDA_Pila.src;
 import java.util.Scanner;
 
 public class MenuOpcionesMain {
